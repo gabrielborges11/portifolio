@@ -1,0 +1,59 @@
+.projeto{
+    width:90%;
+    border:1px solid;
+    height:150px;
+    margin-left:20px;
+    display:flex;
+    margin-top:20px;
+    border-radius:20px;
+    margin-bottom: 20px;
+    border-left:none;
+}
+
+.projeto img{
+    height:100%;
+    width:30%;
+    object-fit: cover;
+    border-radius:20px 0px 0px 20px;
+   
+}
+.btn{
+    display:flex;
+    gap:10px;
+}
+
+.verMais{
+    text-align: center;
+    cursor: pointer;
+    transition: 0.5s;
+    color:#ef9652;
+}
+
+.verMais:hover{
+    color:white;
+    text-decoration:underline;
+}
+article{
+    display:flex;
+    flex-direction: column;
+    /*align-items: center;*/
+    justify-content: center;
+    margin-left:40px;
+}
+
+.acessar{
+    background-color:rgb(14, 230, 230);
+    color:black;
+    border-radius:5px;
+    width:100px;
+    height:40px;
+    border:none;
+    cursor:pointer;
+    transition:0.5s;
+}
+
+.acessar:hover{
+    background-color: transparent;
+    color:white;
+    border:solid 2px white;
+}
