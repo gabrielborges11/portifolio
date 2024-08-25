@@ -9,6 +9,11 @@ body{
    background-color:rgb(39, 39, 39);
 }
 
+.sub{
+    display:flex;
+    gap:30px;
+}
+
 section{
     overflow-y: auto;
     height:350px;
