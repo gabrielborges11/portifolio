@@ -101,3 +101,11 @@ main{
     z-index: -1; /* Coloca o vídeo atrás do conteúdo */
   }
   
+a{
+    text-decoration: none;
+    color:white;
+}
+
+a:hover{
+    color:black;
+}
