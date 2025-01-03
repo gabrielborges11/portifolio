@@ -74,4 +74,10 @@
    }
  
  }
+
+ @media(max-width:421px){
+    .margem{
+        margin-left:40%;
+    }
+ }
  
