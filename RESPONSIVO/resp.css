@@ -19,6 +19,13 @@
     }
 }
 
+@media(max-width:372px){
+    header{
+        display:flex;
+        flex-direction:column;
+    }
+}
+
 
 /*
 @media(max-height:)
