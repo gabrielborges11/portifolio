@@ -27,6 +27,12 @@
 }
 
 
+@media(min-width:1400px){
+    i{
+        transform: scale(1.0);
+    }
+}
+
 /*
 @media(max-height:)
 */
